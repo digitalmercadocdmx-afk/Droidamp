@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Glowing Equalizer Bars behind -->
+    <path
+        android:pathData="M28,68 L28,52 M34,68 L34,44 M40,68 L40,36 M46,68 L46,48 M52,68 L52,32 M58,68 L58,40 M64,68 L64,46 M70,68 L70,38 M76,68 L76,50 M80,68 L80,56"
+        android:strokeWidth="3.2"
+        android:strokeColor="#00FF9D"
+        android:strokeLineCap="round" />
+
+    <!-- Cassette body outline -->
+    <path
+        android:pathData="M24,34 L84,34 A4,4 0 0 1 88,38 L88,72 A4,4 0 0 1 84,76 L24,76 A4,4 0 0 1 20,72 L20,38 A4,4 0 0 1 24,34 Z"
+        android:strokeWidth="2.8"
+        android:strokeColor="#E6F9F2"
+        android:fillColor="#D8081A14" />
+
+    <!-- Cassette label window -->
+    <path
+        android:pathData="M30,42 L78,42 A2,2 0 0 1 80,44 L80,66 A2,2 0 0 1 78,68 L30,68 A2,2 0 0 1 28,66 L28,44 A2,2 0 0 1 30,42 Z"
+        android:fillColor="#0D2C20"
+        android:strokeWidth="1.5"
+        android:strokeColor="#00FF9D" />
+
+    <!-- Left Spool Reel -->
+    <path
+        android:pathData="M39,55m-7,0a7,7 0 1,0 14,0a7,7 0 1,0 -14,0"
+        android:strokeWidth="2.2"
+        android:strokeColor="#00E5FF"
+        android:fillColor="#0A1814" />
+
+    <!-- Right Spool Reel -->
+    <path
+        android:pathData="M69,55m-7,0a7,7 0 1,0 14,0a7,7 0 1,0 -14,0"
+        android:strokeWidth="2.2"
+        android:strokeColor="#00E5FF"
+        android:fillColor="#0A1814" />
+
+    <!-- Center Bridge Tape Window -->
+    <path
+        android:pathData="M48,51 L60,51 A1,1 0 0 1 61,52 L61,58 A1,1 0 0 1 60,59 L48,59 A1,1 0 0 1 47,58 L47,52 A1,1 0 0 1 48,51 Z"
+        android:fillColor="#00FF9D" />
+
+    <!-- TensorRT / Cyber Pulse Accent Line -->
+    <path
+        android:pathData="M22,78 L42,78 L46,84 L52,72 L58,84 L62,78 L86,78"
+        android:strokeWidth="2"
+        android:strokeColor="#00E5FF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+</vector>
+

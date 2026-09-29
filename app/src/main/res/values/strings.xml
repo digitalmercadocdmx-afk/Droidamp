@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Droidamp</string>
+    <string name="channel_playback_name">Audio Engine Playback</string>
+    <string name="channel_playback_desc">Foreground audio playback and DSP engine</string>
+</resources>

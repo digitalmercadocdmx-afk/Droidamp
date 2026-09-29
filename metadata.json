@@ -1,0 +1,6 @@
+{
+  "name": "Droidamp",
+  "description": "Droidamp TensorRT Audio Engine - 10-band EQ, neural super-resolution, tube warmth saturation, DJ cues, and live radio streaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
